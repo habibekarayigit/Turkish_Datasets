@@ -3,8 +3,8 @@
 <b> BERT-based Transfer Learning Model for COVID-19 Sentiment Analysis on Turkish Instagram Comments
 Makalemizin veri kümeleri <br>
 COVID-19 Turkish datasets  
-1- COVID_19_dataset1.xlsx
-2- COVID_19_dataset2.xlsx
+1- COVID_19_dataset1.xlsx <br>
+2- COVID_19_dataset2.xlsx <br>
 
 <b> Homophobic and Hate Speech Detection Using Multilingual-BERT Model on Turkish Social Media
 Makalemizin veri kümesi <br>
