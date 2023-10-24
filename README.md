@@ -1,6 +1,6 @@
 # Bu repoda iki SCI çalışmamızda kullanılan Türkçe veri kümeleri bulunmaktadır.
 
-# BERT-based Transfer Learning Model for COVID-19 Sentiment Analysis on Turkish Instagram Comments
+<b> BERT-based Transfer Learning Model for COVID-19 Sentiment Analysis on Turkish Instagram Comments
 Makalemizin veri kümesi
 COVID-19 Turkish dataset 
 
