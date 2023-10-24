@@ -1,13 +1,13 @@
 # Bu repoda iki SCI çalışmamızda kullanılan Türkçe veri kümeleri bulunmaktadır.
 
 <b> BERT-based Transfer Learning Model for COVID-19 Sentiment Analysis on Turkish Instagram Comments
-Makalemizin veri kümesi <br>
+Makalemizin veri kümeleri <br>
 COVID-19 Turkish datasets  
-COVID_19_dataset1.xlsx
-COVID_19_dataset2.xlsx
+1- COVID_19_dataset1.xlsx
+2- COVID_19_dataset2.xlsx
 
 <b> Homophobic and Hate Speech Detection Using Multilingual-BERT Model on Turkish Social Media
-Makalemizin veri kümesi
+Makalemizin veri kümesi <br>
 Homophobic-Abusive Turkish Comments (HATC)
 
 
