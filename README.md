@@ -10,6 +10,7 @@ COVID-19 Turkish datasets
 Makalemizin veri kümesi <br>
 Homophobic-Abusive Turkish Comments (HATC)
 
+<b> RSTC(for the Return of Syrians Turkish Comments) <b> 
 
 # Çalışmanızda kullanmak ve şifre için lütfen karayigithabibe@gmail.com mailine isteğinizi yazınız. 
 <b> 24.10.2023 tarihinde güncellenmiştir. 
